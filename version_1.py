@@ -2,7 +2,7 @@ import requests
 import json
 import urllib.request
 
-access_token = 'access_token=3f1540f83f1540f83f1540f8f93f61eb2e33f153f1540f860ee5c794e4bc17bd6a88bb3'	
+access_token = 'access_token='	
 versions = 'v=5.52'
 owner_id = 'owner_id=155216956'
 method = 'friends.getOnline'
