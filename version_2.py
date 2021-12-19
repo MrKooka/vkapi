@@ -4,7 +4,7 @@ import urllib.request
 import main
 
 # p = main.get_id_alboms(main.data)
-access_token = 'access_token=c2b7d8acc2b7d8acc2b7d8acc3c2c3737acc2b7c2b7d8ac9d1b1a7e35cec994a9009a8d'
+access_token = ''
 versions = 'v=5.52'
 owner_id = 'owner_id=409122506'
 method = 'photos.getAlbums'
